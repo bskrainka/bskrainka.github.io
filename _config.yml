@@ -5,7 +5,7 @@ url: "http://benjaminskrainka.com"  # Add WWW XXX
 author:
   name: "Benjamin S. Skrainka"
   email: "bskrainka+none@gmail.com"
-  url: "https://benjaminskrainka.com"
+  url: "http://benjaminskrainka.com"
 
 # Build settings
 baseurl: /    # Change this to your relative path (ex: /blog/), or leave just a /
