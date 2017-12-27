@@ -1,11 +1,11 @@
 # Site settings
-title: Monochrome | A minimal, responsive Jekyll blog theme
+title: Benjamin S. Skrainka
 description: "A minimal, responsive, ready to use blog template, built with Jekyll."
-url: "http://www.dyutibarma.github.io/monochrome"
+url: "http://benjaminskrainka.com"  # Add WWW XXX
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Benjamin S. Skrainka"
+  email: "bskrainka+none@gmail.com"
+  url: "https://benjaminskrainka.com"
 
 # Build settings
 baseurl: /    # Change this to your relative path (ex: /blog/), or leave just a /
