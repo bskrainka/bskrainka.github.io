@@ -1,6 +1,6 @@
 # Site settings
 title: Benjamin S. Skrainka
-description: "A minimal, responsive, ready to use blog template, built with Jekyll."
+description: "A bit more noise in the data science signal."
 url: "http://benjaminskrainka.com"  # Add WWW XXX
 author:
   name: "Benjamin S. Skrainka"
@@ -10,6 +10,7 @@ author:
 # Build settings
 baseurl: /    # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
+#markdown: redcarpet
 source: .
 destination: ./_site
 permalink: /:title
@@ -26,7 +27,7 @@ defaults:
       layout: "post"
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
