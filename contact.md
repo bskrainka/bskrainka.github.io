@@ -5,15 +5,6 @@ description: How to contact me!
 ---
 ## Contact information
 
-Email is currently unavailable. 
-
-However, you can contact me via [LinkedIn](https://www.linkedin.com/in/benjamin-skrainka/) or on
-[Twitter](https://twitter.com/bskrainka), where I have a marginal presence.
-
-<!--
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="benjamin-skrainka"><a class="LI-simple-link" href='https://www.linkedin.com/in/benjamin-skrainka?trk=profile-badge'>Benjamin Skrainka</a></div>
-
-
-&nbsp;
--->
+|        |        |        |        |
+|--------|--------|--------|--------|
+| <a href="mailto:bskrainka+data-science-info@gmail.com"> ![Mail](/img/Mail.png) </a> | [![LinkedIn](/img/linkedin-icon_64x64-BW.png)](https://www.linkedin.com/in/benjamin-skrainka/) | [![Twitter](/img/twitter-icon_64x64-BW.png)](https://twitter.com/bskrainka) | [![Flickr](/img/flickr-icon_64x64-BW.png)](https://www.flickr.com/photos/49396618@N02/albums) |
