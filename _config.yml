@@ -4,7 +4,7 @@ description: "A bit more noise in the data science signal."
 url: "http://benjaminskrainka.com"  # Add WWW XXX
 author:
   name: "Benjamin S. Skrainka"
-  email: "bskrainka+none@gmail.com"
+  email: "ben@benjaminskrainka.com"
   url: "http://benjaminskrainka.com"
 
 # Build settings
@@ -16,6 +16,8 @@ destination: ./_site
 permalink: /:title
 paginate: 8
 paginate_path: /page:num/
+
+google_analytics: UA-111739647-1
 
 # Default values
 defaults:

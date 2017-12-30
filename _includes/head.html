@@ -2,6 +2,12 @@
 	<!-- Meta -->
   <meta name="google-site-verification" content="aifejUwS1PEQQQWxnJpUNnHg2dBtRGRXV9KdKhHNORY" />
 
+  <!-- Google Analytics -->
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
+
+
 	<meta charset="UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="generator" content="Jekyll">
