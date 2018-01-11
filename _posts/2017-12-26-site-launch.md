@@ -1,7 +1,7 @@
 ---
-title: Site launch!
+title: Welcome!
 description: Launch of Benjamin S. Skrainka's blog on data science!
-header: Site Launch
+header: Welcome!
 ---
 I created this site to share my thoughts about data science with scientists outside my immediate
 circle of colleagues. In the weeks ahead, I will share war stories, best practices, and practical

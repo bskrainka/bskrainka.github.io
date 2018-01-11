@@ -4,7 +4,7 @@ title: Events
 description: Benjamin S. Skrainka's events
 ---
 
-# Seattle Data Science Journal Club
+## Seattle Data Science Journal Club
 
 I am a founder of the [Seattle Data Science Journal Club](https://www.eventbrite.com/e/seattle-data-science-journal-club-tickets-41223518654), which provides a forum to stay current
 with the latest research and leading thinkers.  We meet once a month to hear a top data scientist or
@@ -17,7 +17,7 @@ Meetings:
     - [Slides on paper](/talks/M1_WagerAthey.pdf)
 
 
-#   Conferences
+##   Conferences
 
 *   I am on the program committee of the Second Workshop on the intersection of [Graph Algorithms and Machine Learning](http://hpc.pnl.gov/graml) (GraML):
     -   The conference is co-located with [IPDPS](http://www.ipdps.org/) 2018 in Vancouver, Canada. 
