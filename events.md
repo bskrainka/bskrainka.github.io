@@ -20,5 +20,5 @@ Meetings:
 #   Conferences
 
 *   I am on the program committee of the Second Workshop on the intersection of [Graph Algorithms and Machine Learning](http://hpc.pnl.gov/graml) (GraML):
-    -   The conference is co-located with IPDPS '18 in Vancouver, Canada. 
+    -   The conference is co-located with [IPDPS](http://www.ipdps.org/) '18 in Vancouver, Canada. 
     -   GraML will be held on May 25, 2018
