@@ -3,8 +3,7 @@ title: Site launch!
 description: Launch of Benjamin S. Skrainka's blog on data science!
 header: Site Launch
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
-
-Let's test some \\( \LaTeX{} \\) and math \\( sin(x^2) \\)
-
-$$ sin(x^2) $$
+I created this site to share my thoughts about data science with scientists outside my immediate
+circle of colleagues. In the weeks ahead, I will share war stories, best practices, and practical
+research for practitioners, all based on several decades of using math, software, theory, and, of
+course good judgement and humor to solve scientific problems.
