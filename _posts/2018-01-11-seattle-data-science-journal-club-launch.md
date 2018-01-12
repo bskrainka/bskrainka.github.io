@@ -5,7 +5,7 @@ header: It's on! Seattle Data Science Journal Club's inaugural meeting
 ---
 
 I love working as a data scientist in industry with rich data and fascinating, real-world 
-problems.  But, I miss having access to high quality seminars where I could
+problems.  But, I miss having access to high quality seminars where I can
 discuss the latest research and ideas with peers. 
 Looking at the flourishing data science journal clubs in
 [Silicon Valley](https://www.meetup.com/Silicon-Valley-Data-Science-Journal-Club/?_cookie-check=8JqBejiS8KtzrbG6)
@@ -14,7 +14,7 @@ I was keen to launch a similar meetup in Seattle.
 
 Today, [Convoy](https://convoy.com/) sponsored and launched a new meetup, the
 Seattle Data Science Journal Club, to help data scientists remain on the forefront of the
-profession.  Now, Seattle Data Scientist have a forum to talk about the latest
+profession.  Now, Seattle data scientists have a forum to talk about the latest
 research and network with peers. 
 Almost 30 data scientists attended to discuss Wager & Athey’s 2017
 [paper](https://arxiv.org/abs/1510.04342)
