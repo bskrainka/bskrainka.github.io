@@ -1,11 +1,8 @@
 ---
 title: Seattle Data Science Journal Club
 description: Seattle Data Science Journal Club
-header: It's on! Seattle Data Science Journal Club's first meeting
+header: It's on! Seattle Data Science Journal Club's inaugural meeting
 ---
-
-##  It's on: Seattle Data Science Journal Club's inaugural meeting
-
 
 I love working as a data scientist in industry with rich data and fascinating, real-world 
 problems.  But, I miss having access to high quality seminars where I could
