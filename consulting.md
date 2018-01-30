@@ -6,7 +6,7 @@ description: Consulting services
 
 I offer a broad range of data science consulting services, including:
 
-* Solving data science problems, from the business question through deployment
+* Solving data science problems -- from the business question through deployment
 * Teaching and mentoring
 * Speaking at conferences
 * Building data science strategy and teams
@@ -46,7 +46,7 @@ I can help your data scientists quickly improve their skills and impact.
 
 ##  Conference speaking
 
-When I speak at a conference, I provide an entertaining talks which provide usefull knowledge or
+When I speak at a conference, I deliver entertaining talks packed with usefull knowledge and
 skills that participants can immediately apply to their problems. [Watch](https://youtu.be/kex-UXZTGU4)
 my presentation on [Correctness in Data Science](https://youtu.be/kex-UXZTGU4)
 from the 2015 Seattle Data Science Pop-up to get a sense of my style.
