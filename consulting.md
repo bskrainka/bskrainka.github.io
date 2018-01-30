@@ -6,7 +6,7 @@ description: Consulting services
 
 I offer a broad range of data science consulting services, including:
 
-* Solving data science problems -- from the business question through deployment
+* Solving data science problems -- from the business question through to deployment
 * Teaching and mentoring
 * Speaking at conferences
 * Building data science strategy and teams
