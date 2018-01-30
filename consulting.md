@@ -4,6 +4,8 @@ title: Consulting
 description: Consulting services
 ---
 
+##  Consulting services
+
 I offer a broad range of data science consulting services, including:
 
 * Solving data science problems -- from the business question through to deployment
@@ -12,7 +14,7 @@ I offer a broad range of data science consulting services, including:
 * Building data science strategy and teams
 
 
-##  Solving data science problems
+###  Solving data science problems
 
 
 I have a huge toolbox of skills which I can apply to your problems:
@@ -32,7 +34,7 @@ and reproducible manner. This methodology focuses on defining the business quest
 you can actually solve with your data, and planning the entire data science process through to deployment.
 
 
-##  Teaching and mentoring
+###  Teaching and mentoring
 
 I have a taught a broad range and style of courses in both academia and industry for several decades.
 In addition, I founded and developed [Galvanize's](https://www.galvanize.com)
@@ -44,7 +46,7 @@ In addition, I have hired and mentored numerous data scientists for a variety of
 I can help your data scientists quickly improve their skills and impact.
 
 
-##  Conference speaking
+###  Conference speaking
 
 When I speak at a conference, I deliver entertaining talks packed with usefull knowledge and
 skills that participants can immediately apply to their problems. [Watch](https://youtu.be/kex-UXZTGU4)
