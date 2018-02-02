@@ -49,6 +49,10 @@ I can help your data scientists quickly improve their skills and impact.
 ###  Conference speaking
 
 When I speak at a conference, I deliver entertaining talks packed with usefull knowledge and
-skills that participants can immediately apply to their problems. [Watch](https://youtu.be/kex-UXZTGU4)
+skills that participants can immediately apply to their problems. To get a sense of my style,
+[watch](https://youtu.be/kex-UXZTGU4)
 my presentation on [Correctness in Data Science](https://youtu.be/kex-UXZTGU4)
-from the 2015 Seattle Data Science Pop-up to get a sense of my style.
+from the 2015 Seattle Data Science Pop-up or check out
+[Episode 4](https://www.datacamp.com/community/podcast/data-science-trucking-revolution) of
+the [DataFramed](https://www.datacamp.com/community/podcast) podcast, where I discuss
+how data science is revolutionizing the trucking industry.

@@ -7,6 +7,7 @@ description: Benjamin S. Skrainka's talks.
 ## Data science talks and writings
 
 
+* <a href="https://www.datacamp.com/community/podcast/data-science-trucking-revolution">How data science is revolutionizing the trucking industry</a>, one of the first episodes of the [DataFramed](https://www.datacamp.com/community/podcast) podcast.
 * <a href="https://youtu.be/kex-UXZTGU4">Correctness in Data Science</a>, featured talk at Data Science Pop-up Seattle, October 2015 
 * <a href="https://www.slideshare.net/dominodatalab/data-science-popup-seattle-correctness-in-data-science">Correctness in Data Science</a>, slides from talk at Data Science Pop-up Seattle, October 2015 
 * <a href="http://blog.galvanize.com/how-to-prevent-bad-science/">How to Tune Up Your Workflow to Produce Better Models</a>, on Galvanize's blog, January 5, 2016
