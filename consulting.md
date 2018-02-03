@@ -39,7 +39,7 @@ you can actually solve with your data, and planning the entire data science proc
 I have a taught a broad range and style of courses in both academia and industry for several decades.
 In addition, I founded and developed [Galvanize's](https://www.galvanize.com)
 [Data Science Bootcamp in Seattle](https://www.galvanize.com/seattle/data-science). I deliver
-engaging -- even humorous -- classes which teach the indispensible knowledge you need to succeed
+engaging -- even humorous -- classes which teach the indispensable knowledge you need to succeed
 with real problems.
 
 In addition, I have hired and mentored numerous data scientists for a variety of organizations.
@@ -48,7 +48,7 @@ I can help your data scientists quickly improve their skills and impact.
 
 ###  Conference speaking
 
-When I speak at a conference, I deliver entertaining talks packed with usefull knowledge and
+When I speak at a conference, I deliver entertaining talks packed with useful knowledge and
 skills that participants can immediately apply to their problems. To get a sense of my style,
 [watch](https://youtu.be/kex-UXZTGU4)
 my presentation on [Correctness in Data Science](https://youtu.be/kex-UXZTGU4)
