@@ -5,7 +5,7 @@ description: This page describes Benjamin S. Skrainka.
 ---
 ## About
 
-I am a computational economist and have been a data scientist since long before there were data scientists.
+I am a computational economist, and have been a data scientist since long before there were data scientists.
 I have worked on diverse problems which involve computation, data, and theory, such as estimating demand for differentiated
 products, forecasting, pricing, quantum cosmology, bioinformatics, and more. 
 Currently an independent data science [consultant](/consulting), I use good judgment, humor, data, and math to
