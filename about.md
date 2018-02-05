@@ -5,12 +5,12 @@ description: This page describes Benjamin S. Skrainka.
 ---
 ## About
 
-Benjamin S. Skrainka is a computational economist who has been a data scientist since long before there were data scientists.
-He has worked on diverse problems which involve computation, data, and theory, such as estimating demand for differentiated
+I am a computational economist and have been a data scientist since long before there were data scientists.
+I have worked on diverse problems which involve computation, data, and theory, such as estimating demand for differentiated
 products, forecasting, pricing, quantum cosmology, bioinformatics, and more. 
-Currently an independent data science [consultant](/consulting), Ben uses good judgment, humor, data, and math to
+Currently an independent data science [consultant](/consulting), I use good judgment, humor, data, and math to
 help clients solve their problems and optimize their businesses.
-His academic background includes an A.B. in [Physics](https://phy.princeton.edu/) from [Princeton](https://www.princeton.edu/),
+My academic background includes an A.B. in [Physics](https://phy.princeton.edu/) from [Princeton](https://www.princeton.edu/),
 an MSc and a PhD in [Economics](http://www.ucl.ac.uk/economics) from [UCL](http://www.ucl.ac.uk/),
 and postdoctoral research at the [University of Chicago](https://www.uchicago.edu/).
 
