@@ -20,6 +20,7 @@ I offer a broad range of data science consulting services, including:
 I have a huge toolbox of skills which I can apply to your problems:
 
 * Machine learning
+* Deep learning
 * Experimental design and analysis (Frequentist and Bayesian A/B testing)
 * (Causal) regression analysis
 * Time series forecasting
